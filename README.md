@@ -188,7 +188,7 @@ By default it uses the official EteSync server at `https://api.etesync.com`.
 
 ## Using a proxy
 
-EteSync-DAV should automatically use the system's proxy settings if set correctly. Alternatively, you can set the `HTTP_PROXY` and `HTTPS_PROXY` environment variables to manually set the proxy settings.
+EteSync-DAV should automatically use the system's proxy settings if set correctly. Alternatively, you can set the `http_proxy` and `https_proxy` environment variables to manually set the proxy settings.
 
 ## Self Signed Certs
 
